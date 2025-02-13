@@ -1,4 +1,4 @@
-# auctionsystem
+# Auction-System
 
 1. Authentication & User Management
 ✅ User Registration/Login (Email, Google, or Phone)
